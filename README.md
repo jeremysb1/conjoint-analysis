@@ -1,6 +1,8 @@
 # Choice-Based Conjoint Analysis
 
-Choice-based conjoint analysis (CBC) is a survey-based statistical technique used in market research to determine how people value different features that make up an individual product or service. Here's a breakdown of how it works:
+Choice-based conjoint analysis (CBC) is a survey-based statistical technique used in market research to determine how people value different features that make up an individual product or service. 
+
+Here's a breakdown of how it works:
 
 - **Concept**: CBC simulates real-world buying decisions by presenting respondents with a series of choice sets, each containing several product profiles. Each profile is described by a combination of attributes (like price, brand, color, etc.), and respondents choose their preferred option from each set.
 
