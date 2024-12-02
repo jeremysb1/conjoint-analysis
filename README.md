@@ -1,1 +1,1 @@
-# conjoint-analysis
+# Choice-Based Conjoint Analysis
